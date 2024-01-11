@@ -15,3 +15,4 @@ for (let i = 1;  i <= 10; i++){
 }
 
 console.log(`Você digitou:\nNumero PAR(ES): ${numPares}\nNumero IMPAR(ES): ${numImpar}`)
+ 
