@@ -37,6 +37,3 @@ if (dia > 0 && dia <=30 && mes > 1 && mes <=12 && ano >1000 && ano < 3000) {
     console.log(convertorDeData(dia, mes, ano, mesDoAno))
 } else
     console.log (null)
-    
-
-
