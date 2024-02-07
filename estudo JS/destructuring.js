@@ -17,3 +17,15 @@ console.log(pronome1)
 console.log(pronome2)
 
 // destruturação com objeto, vulgo dicionario
+
+const usuario = {
+    nome: 'Aline',
+     idade: 27,
+    cargo:'Aluno',
+   
+}
+
+const {nome, cargo} = usuario
+
+
+console.log(`${nome} - ${cargo}`)
