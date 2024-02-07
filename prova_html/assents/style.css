@@ -1,0 +1,91 @@
+.header{
+    background-color: #ffc107;
+}
+
+.logo{
+    width: 150px;
+}
+
+.entrar{
+    color:#e5e5e5;
+    border: #e5e5e5 1px solid;
+}
+
+.link-header{
+    color: black;
+}
+
+.cadastre-se{
+    width: 90%;
+}
+
+.main{
+    background-color: #ffdb0d;
+    color: #e5e5e5;
+}
+.main h2{
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+.cadastre{
+    width: 600px;
+    padding-left: 50px;
+    margin-top: 90px;
+}
+
+.inputcad{
+    width: 380px;
+}
+
+.div-aside{
+    margin-top: 50px;
+}
+
+.div-asid{
+    margin-top: 215px;
+    margin-left: 40px;
+}
+
+.img-aside{
+    width: 400px;
+}
+
+.aside{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.div-container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.img-vejamais{
+    width: 350px;
+    margin-left: 25px;
+}
+
+.expliq-vejamais{
+    width: 350px;
+    margin-left: 20px;
+}
+
+.icon{
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid black;
+    color: black;
+}
+.linktechcont{
+
+}
+
+.linktech{
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #e5e5e5;
+    color:#e5e5e5;
+    font-size: 15px;
+    font-weight: bold;
+}
